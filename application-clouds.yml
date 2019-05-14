@@ -1,0 +1,6 @@
+service:
+    config:
+        endpoint: https://syntrac-configuration/abchahaa
+        useExternal: false
+        externalEndpoint:
+    
